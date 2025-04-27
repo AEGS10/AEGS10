@@ -21,7 +21,8 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Skilss👨🏻‍💻</h2>
+<h2> :globe_with_meridians: Web Developement </h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
