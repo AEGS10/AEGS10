@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Alvaro García / AEGS10 ✨ </h1> 
+<h1 align="center">Hola 👋  Soy Alvaro García / AEGS10 ✨ </h1> 
 
 <p align="left">
   
