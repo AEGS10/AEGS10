@@ -12,7 +12,7 @@
 <p align="left">
 🎓 ESTUDIANTE DE SOFTWARE
 
-💻 unos cuántas experiencia en el proceso de desarrollo de software 
+💻 Unas cuántas experiencia en el proceso de desarrollo de software 
 
 
 
@@ -28,6 +28,30 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,ts,js" />
   </a>
+</p>
+<br>
+
+<h2> 💻 Programming Languages: </h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c#,,js" />
+  </a>
+</p>
+<br>
+
+<h2> :round_pushpin: Editores De Codigo: </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
+<br>
+<h2> :round_pushpin: Date Base: </h2>
+<p align="left">
+  <a >
+    <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" width=30% height=30% align=left />
+  </a> <br>
 </p>
 <br>
 <!-------------------------->
