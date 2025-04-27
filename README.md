@@ -54,6 +54,7 @@
   </a> <br>
 </p>
 <br>
+<br>
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
