@@ -21,7 +21,7 @@
   </p>
 <br>
 
-<h2 >Skilss👨🏻‍💻</h2>
+<h2 >Skills👨🏻‍💻</h2>
 <h2> :globe_with_meridians: Web Developement </h2>
 <!--tech stack icons-->
 <p align="left">
