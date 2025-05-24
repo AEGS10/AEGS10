@@ -2,7 +2,7 @@
 
 <p align="left">
   
-  <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="www.linkedin.com/in/alvaro-garcia-76b92234a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   <a href="https://www.instagram.com/alvaro_garcia80.s/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
 </p>
 <br>
