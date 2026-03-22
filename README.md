@@ -76,7 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AEGS10/AEGS10/output/snake.svg" alt="Snake animation" />
 
 ###
 
